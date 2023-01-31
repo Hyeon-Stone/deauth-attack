@@ -1,4 +1,4 @@
-# HW2-3th Edu | deauth-attack
+# HW3-3th Edu | deauth-attack
 
 | Deauth Attack!!!!!
 
